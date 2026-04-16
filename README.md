@@ -1,5 +1,6 @@
 # VoltsTextKiller
 Basically can encode text into a bitmap of 32x32, and can decode the bitmap too.
+1024 characters maximum
 
 # How to use
 <img src="https://cdn.discordapp.com/attachments/1464431311744794821/1494479340358991923/image.png?ex=69e2c1d8&is=69e17058&hm=901109692e957bf3dcd0314e63a791e5055628adfd4543fdbe23fd34414047e1&">
